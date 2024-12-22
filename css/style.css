@@ -364,3 +364,33 @@ box-shadow: 0px 7px 15px 0px rgba(0,10,187,0.54);
     margin-left: 81px;
 
 }
+
+/* <!-- ----merketing----- --> */
+
+.merketing{
+    margin-bottom: 94px;
+}
+.merketing .text h1{
+    font-size: 36px;
+    font-weight: 600;
+    color: #263238;
+    font-family: "Inter", serif;
+    text-align: center;
+    margin-bottom: 8px;
+
+}
+.merketing .text p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #717171;
+    font-family: "Inter", serif;
+    text-align: center;
+    width: 628px;
+    height: 72px;
+    margin: 0 auto;
+}
+.merketing .row .col-lg-4{
+    width: 100%;
+    height: 100px;
+    background: red;
+}
